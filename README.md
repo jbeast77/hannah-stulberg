@@ -8,31 +8,11 @@ This is also a way to access my content where you actually work - so I can help 
 
 ## What's in here
 
-**Claude Code for Everything** - A 7-part series that takes you from zero to productive with Claude Code:
+Use the maintained [article index](CLAUDE.md#article-index) and [topic quick lookup](CLAUDE.md#topic-quick-lookup) for the complete current catalog. Keeping that catalog in one place avoids mismatched article counts and stale agent indexes.
 
-| # | Article | What you'll learn |
-|---|---------|-------------------|
-| 1 | [Finally, That Personal Assistant You've Always Wanted](claude-code-for-everything/01-finally-that-personal-assistant-youve-always-wanted/article.md) | Setup and installation - IDE, Claude Code, working directory, markdown, bash |
-| 2 | [How the Guy Who Built It Actually Uses It](claude-code-for-everything/02-how-the-guy-who-built-it-actually-uses-it/article.md) | Core workflow - plan mode, parallel sessions, session management, background agents |
-| 3 | [Why AI Gets Dumber The Longer You Talk To It](claude-code-for-everything/03-why-ai-gets-dumber-the-longer-you-talk-to-it/article.md) | Context management - why it matters and five techniques to stay sharp |
-| 4 | [Draft in Claude Code, Collaborate in Notion](claude-code-for-everything/04-draft-in-claude-code-collaborate-in-notion/article.md) | Bridging the gap between your AI workspace and team collaboration tools |
-| 5 | [The Best Personal Assistant Remembers Things About You](claude-code-for-everything/05-claudemd-files/article.md) | CLAUDE.md deep dive - onboarding documents that make Claude show up already knowing you |
-| 6 | [The One File That Can Save Your Team Thousands of Hours](claude-code-for-everything/06-the-one-file-that-can-save-your-team-thousands-of-hours/article.md) | Scaling shared context files across teams (with Joel Salinas) |
-| 7 | [Your Status Line Is Empty (Let's Fix That)](claude-code-for-everything/07-your-status-line-is-empty-lets-fix-that/article.md) | Turning the bottom of your terminal into a personal command center |
-
-**Tool School** - 101 guides for the tools AI-native work requires:
-
-| # | Article | What you'll learn |
-|---|---------|-------------------|
-| 1 | [GitHub 101 (GitHub is the New Google Drive)](tool-school/01-github-101/article.md) | Everything you need to start using GitHub - with a real practice repo (with Sidwyn Koh) |
-| 2 | [Benchmarking 101 (How To Read AI Model Report Cards)](tool-school/02-benchmarking-101/article.md) | How to read AI model scorecards - benchmarks, scoring methods, trust tiers, cost (with Akshat Khandelwal) |
-
-**Standalone articles:**
-
-| Article | What you'll learn |
-|---------|-------------------|
-| [Skip the Terminal (And 8 Other Claude Code Tricks)](standalone/skip-the-terminal-and-8-other-claude-code-tricks-for-non-technical-users/article.md) | 9 tips that make Claude Code way less intimidating |
-| [Stop Typing, Start Talking](standalone/stop-typing-start-talking/article.md) | How dictation + AI editing saves 10+ hours a week |
+- [Claude Code for Everything](claude-code-for-everything/CLAUDE.md): the sequential setup, workflow and context series, including the latest maintained entries.
+- [Tool School](tool-school/CLAUDE.md): introductory guides to the tools AI-native work requires.
+- [Standalone articles](standalone/CLAUDE.md): focused workflows, shared team context and business/product topics.
 
 ## Getting started
 
@@ -57,7 +37,7 @@ Claude will use the CLAUDE.md files in this repo to teach you from the articles.
 
 ### With Cursor, Codex, or other AI tools
 
-These tools read the AGENTS.md file (a copy of CLAUDE.md) for the same instructor behavior. Clone the repo, open it in your tool, and start asking questions.
+These tools read [AGENTS.md](AGENTS.md), which points to the maintained [CLAUDE.md](CLAUDE.md) teaching guide and article index. Clone the repo, open it in your tool, and start asking questions.
 
 ### Without any AI tool
 
